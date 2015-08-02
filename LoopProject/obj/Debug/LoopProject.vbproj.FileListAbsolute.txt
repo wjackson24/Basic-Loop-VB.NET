@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2012\Projects\LoopProject\LoopProject\bin\Debug\LoopProject.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\LoopProject\LoopProject\obj\Debug\LoopProject.Resources.resources
+c:\users\admin\documents\visual studio 2012\Projects\LoopProject\LoopProject\obj\Debug\LoopProject.vbproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2012\Projects\LoopProject\LoopProject\bin\Debug\LoopProject.exe
+c:\users\admin\documents\visual studio 2012\Projects\LoopProject\LoopProject\bin\Debug\LoopProject.pdb
+c:\users\admin\documents\visual studio 2012\Projects\LoopProject\LoopProject\bin\Debug\LoopProject.xml
+c:\users\admin\documents\visual studio 2012\Projects\LoopProject\LoopProject\obj\Debug\LoopProject.exe
+c:\users\admin\documents\visual studio 2012\Projects\LoopProject\LoopProject\obj\Debug\LoopProject.xml
+c:\users\admin\documents\visual studio 2012\Projects\LoopProject\LoopProject\obj\Debug\LoopProject.pdb
